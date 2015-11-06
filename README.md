@@ -3,7 +3,7 @@ A .NET wrapper for DPD's Shipping API. DPD's API is very much a work-in-progress
 
 Async and Sync methods abailable for everything.
 
-TODO: Write a project description
+Includes a test console app to demo the functionality.
 
 ## API Support
 

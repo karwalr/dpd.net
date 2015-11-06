@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dpd.shipping", "dpd.shipping\dpd.shipping.csproj", "{BD4C7EBE-5EC1-4674-942C-3F826A7EFA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dpd.testapp", "dpd.testapp\dpd.testapp.csproj", "{4784B03B-4617-40A7-8CB9-44BECE816857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4C7EBE-5EC1-4674-942C-3F826A7EFA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4C7EBE-5EC1-4674-942C-3F826A7EFA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4C7EBE-5EC1-4674-942C-3F826A7EFA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4C7EBE-5EC1-4674-942C-3F826A7EFA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4784B03B-4617-40A7-8CB9-44BECE816857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4784B03B-4617-40A7-8CB9-44BECE816857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4784B03B-4617-40A7-8CB9-44BECE816857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4784B03B-4617-40A7-8CB9-44BECE816857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
